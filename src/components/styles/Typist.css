@@ -1,0 +1,24 @@
+.cursor {
+  display: inline-block; }
+ .cursor--blinking {
+    opacity: 0.3;
+    animation: blink 0.8s infinite; }
+
+@keyframes blink {
+  0% {
+    -webkit-animation-timing-function: steps(1, end);
+    -moz-animation-timing-function: steps(1, end);
+    -ms-animation-timing-function: steps(1, end);
+    -o-animation-timing-function: steps(1, end);
+    animation-timing-function: steps(1, end);
+    opacity: 1; }
+  50% {
+    -webkit-animation-timing-function: steps(1, end);
+    -moz-animation-timing-function: steps(1, end);
+    -ms-animation-timing-function: steps(1, end);
+    -o-animation-timing-function: steps(1, end);
+    animation-timing-function: steps(1, end);
+    opacity: 0; }
+  100% {
+
+    opacity: 1; } }
