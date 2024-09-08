@@ -1,7 +1,7 @@
 import Hero from './components/Hero';
 import About from './components/About';
 import Projects from './components/Projects';
-import Navbar from './components/Navbar';
+import Technologies from './components/Technologies';
 
 
 
@@ -20,11 +20,9 @@ function App() {
         <Projects />
       </div>
 
-      <div id="Navbar">
-        <Navbar />
+      <div id="technologies">
+        <Technologies />
       </div>
-
-      
   
     </div>
   );

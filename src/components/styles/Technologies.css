@@ -1,0 +1,33 @@
+.technologies-section {
+    padding: 20px;
+    background-color: #000000;
+    text-align: center;
+  }
+  
+  .technologies-content {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    color: #3cff00
+  }
+  
+  .tech-category {
+    margin: 20px;
+    text-align: left;
+  }
+  
+  .tech-category h2 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .tech-category ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .tech-category li {
+    font-size: 1.2rem;
+    margin-bottom: 5px;
+  }
+  
