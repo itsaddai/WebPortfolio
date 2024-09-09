@@ -20,8 +20,10 @@ const Technologies = () => {
     {
       category: "Frameworks & Libraries",
       items: [
-        <code>- Node.js</code>,
         <code>- Express</code>,
+        <code>- React</code>,
+        <code>- Node.js</code>,
+        
       ] 
     },
     {
