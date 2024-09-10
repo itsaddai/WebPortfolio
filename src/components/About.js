@@ -31,7 +31,7 @@ const About = (props) => (
          You can checkout my résumé, linkedin, github, and email me through the buttons on the side, or scroll down to see all my projects:
       </p>
       <div className="self-contact-info">
-        <a href="isaac-addai-resume-placeholder-for-when-i-actually-finish-my-Resume.pdf" target="_blank" rel="noopener noreferrer">
+        <a href="Isaac_Addai_Resume.pdf" target="_blank" rel="noopener noreferrer">
           <img src={resume} alt="investigate here!" className="class-a" />
         </a>
         <br/>

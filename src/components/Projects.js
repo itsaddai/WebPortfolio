@@ -1,9 +1,8 @@
-import React from "react";
 import "./styles/Projects.css"
 import passgen  from "../../src/components/images/passgen.png"
 import R3plastics  from "../../src/components/images/R3Plastics.png"
 import MorningBot  from "../../src/components/images/MorningBot.png"
-import bramptongeoguessr  from "../../src/components/images/bramptongeoguessr.png"
+import bramptongeoguessr from "../../src/components/images/bramptongeoguessr.png"
 
 
 const projects  = () => (
