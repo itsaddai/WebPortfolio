@@ -1,7 +1,7 @@
 {
   "name": "portfolio-v3",
   "version": "0.1.0",
-  "homepage": "iaddai.tech",
+  "homepage": "itsaddai.github.io/WebPortfolio",
   "private": true,
   "dependencies": {
     "@radix-ui/react-accordion": "^1.2.0",
